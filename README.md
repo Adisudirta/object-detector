@@ -6,11 +6,6 @@
 </a>
 </div>
 
-The source code for [this](https://dev.to/andreygermanov/a-practical-introduction-to-object-detection-with-yolov8-neural-network-3n8c) article.
-
-This is a web interface to [YOLOv8 object detection neural network](https://ultralytics.com/yolov8)
-implemented on [Python](https://www.python.org) that uses a model to detect traffic lights and road signs on images.
-
 ## Install
 
 - Clone this repository: `git clone git@github.com:AndreyGermanov/yolov8_pytorch_python.git`
